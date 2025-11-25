@@ -11,10 +11,6 @@
  The complete code is coming soon.
 
 # Datasets
-For AIops18, please refer to https://github.com/BEbillionaireUSD/Maat
-
-For GAIA, please refer to https://github.com/CloudWise-OpenSource/GAIA-DataSet
-
 Media and SN are coming soon, and we present a toy dataset (the illustration expriment in the paper), similar to Media and SN, except that the data volume is smaller: https://drive.google.com/file/d/1sBylsgSY8jP1WHHCtipWOKgF8nCHoL1u/view?usp=drive_link
 
 # Details
